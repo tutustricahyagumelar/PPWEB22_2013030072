@@ -1,0 +1,1 @@
+<a href = "krs.php">VIEW</a> | <a href = "krs_add.php">ADD</a>
